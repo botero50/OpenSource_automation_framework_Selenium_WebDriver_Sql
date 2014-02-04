@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14863" started-at="2014-02-03T19:11:52Z" finished-at="2014-02-03T19:12:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14863" started-at="2014-02-03T19:11:52Z" finished-at="2014-02-03T19:12:07Z">
+      <class name="Framework.Executor">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Framework.Executor@1d9f0336]" name="SetUp" is-config="true" duration-ms="10" started-at="2014-02-03T14:11:52Z" finished-at="2014-02-03T14:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="testParse()[pri:0, instance:Framework.Executor@1d9f0336]" name="testParse" duration-ms="14820" started-at="2014-02-03T14:11:52Z" finished-at="2014-02-03T14:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParse -->
+      </class> <!-- Framework.Executor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
